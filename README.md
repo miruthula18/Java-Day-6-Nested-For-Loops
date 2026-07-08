@@ -1,4 +1,4 @@
-# Java Day 6 - Nested For Loops
+# Java Day 5 - Nested For Loops
 
 ## Description
 This repository contains Java programs based on Nested For Loops.
